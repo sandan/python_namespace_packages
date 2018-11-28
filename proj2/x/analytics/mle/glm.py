@@ -1,0 +1,2 @@
+class GLM(object):
+  pass
